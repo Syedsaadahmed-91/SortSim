@@ -9,8 +9,3 @@ It uses **ANSI colors** and delays to animate comparisons, swaps, and writes.
 - Highlights comparisons, swaps, and pivot selections in color.
 - Runs directly in the terminal (no GUI required).
 - Randomly generates an array of numbers each run.
-
----
-
-## 📸 Demo
-Example output (Bubble Sort in progress):
